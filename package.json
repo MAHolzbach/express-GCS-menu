@@ -2,6 +2,10 @@
   "name": "express-gcs-menu",
   "version": "1.0.0",
   "description": "GCS Menu",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MAHolzbach/express-GCS-menu"
+  },
   "main": "index.js",
   "scripts": {
     "test": "test"
