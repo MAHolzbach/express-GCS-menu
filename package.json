@@ -21,5 +21,9 @@
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-preset-env": "^1.7.0"
+  },
+  "config": {
+    "accessToken": "9a71a0c5974156e1b27f61a61c1130a073b1fc8f372303e78558ffb71637c3bc",
+    "space": "lh8rpm1vskzm"
   }
 }
